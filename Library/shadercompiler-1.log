@@ -1,0 +1,243 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-876
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=447 outsize=447 ok=1
+Cmd: preprocess
+  insize=1720 outsize=732 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1294 outsize=372 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1294 outsize=139 kw=LIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1584 outsize=2244 ok=1
+Cmd: preprocess
+  insize=1584 outsize=469 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1370 outsize=1034 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1370 outsize=131 kw=LIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=3382 outsize=681 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2900 outsize=1039 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2900 outsize=210 kw= ok=1
+Cmd: preprocess
+  insize=4414 outsize=1186 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3425 outsize=3048 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3425 outsize=81 kw= ok=1
+Cmd: preprocess
+  insize=2933 outsize=203 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2950 outsize=99 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2950 outsize=1926 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (39): Unrecognized renderer for #pragma exclude_renderers: molehill
+  insize=2588 outsize=1222 ok=1
+Cmd: compileSnippet
+  error: 1 plat 15 at (39): Unrecognized renderer for #pragma exclude_renderers: molehill
+  api=1 type=0 insize=1674 outsize=1257 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 15 at (39): Unrecognized renderer for #pragma exclude_renderers: molehill
+  api=1 type=1 insize=1674 outsize=156 kw=LIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1637 outsize=709 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=5616 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=5616 outsize=544 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1479 outsize=1093 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4983 outsize=784 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4983 outsize=526 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=836 outsize=215 ok=1
+Cmd: preprocess
+  insize=556 outsize=556 ok=1
+Cmd: preprocess
+  insize=1423 outsize=2191 ok=1
+Cmd: preprocess
+  insize=7006 outsize=291 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6815 outsize=253 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6815 outsize=3006 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+Cmd: preprocess
+  insize=1048 outsize=887 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4808 outsize=595 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4808 outsize=345 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2847 outsize=383 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2847 outsize=538 kw=POINT ok=1
+Cmd: preprocess
+  insize=1811 outsize=668 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1395 outsize=746 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1395 outsize=81 kw= ok=1
+Cmd: preprocess
+  insize=2125 outsize=569 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1787 outsize=685 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1787 outsize=162 kw= ok=1
+Cmd: preprocess
+  insize=438 outsize=438 ok=1
+Cmd: preprocess
+  insize=508 outsize=508 ok=1
+Cmd: preprocess
+  insize=2379 outsize=1092 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1534 outsize=171 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1534 outsize=141 kw=SOFTPARTICLES_OFF ok=1
+Cmd: preprocess
+  insize=508 outsize=508 ok=1
+Cmd: preprocess
+  insize=1982 outsize=652 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1635 outsize=1170 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1635 outsize=131 kw=LIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=179 outsize=179 ok=1
+Cmd: preprocess
+  insize=438 outsize=438 ok=1
+Cmd: preprocess
+  insize=4414 outsize=1186 ok=1
+Cmd: preprocess
+  insize=2237 outsize=975 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1561 outsize=171 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1561 outsize=121 kw=SOFTPARTICLES_OFF ok=1
+Cmd: preprocess
+  insize=3382 outsize=681 ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  insize=2566 outsize=1237 ok=1
+Cmd: compileSnippet
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  api=1 type=0 insize=1637 outsize=1192 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  api=1 type=1 insize=1637 outsize=156 kw=LIGHTMAP_OFF ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (39): Unrecognized renderer for #pragma exclude_renderers: molehill
+  insize=2588 outsize=1222 ok=1
+Cmd: preprocess
+  insize=1982 outsize=652 ok=1
+Cmd: preprocess
+  insize=179 outsize=179 ok=1
+Cmd: preprocess
+  insize=556 outsize=556 ok=1
+Cmd: preprocess
+  insize=551 outsize=183 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=665 outsize=145 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=665 outsize=71 kw= ok=1
+Cmd: preprocess
+  insize=2490 outsize=810 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1913 outsize=931 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1913 outsize=249 kw= ok=1
+Cmd: preprocess
+  insize=678 outsize=208 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=745 outsize=193 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=745 outsize=41 kw= ok=1
+Cmd: preprocess
+  insize=1408 outsize=1408 ok=1
+Cmd: preprocess
+  insize=2926 outsize=568 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2462 outsize=162 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2462 outsize=1852 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=422 outsize=162 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=422 outsize=49 kw= ok=1
+Cmd: preprocess
+  insize=2125 outsize=569 ok=1
+Cmd: preprocess
+  insize=4254 outsize=230 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4197 outsize=162 kw=DIRECTIONAL_SHAFTS COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4197 outsize=1916 kw=DIRECTIONAL_SHAFTS COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_ON ok=1
+Cmd: preprocess
+  insize=1811 outsize=668 ok=1
+Cmd: preprocess
+  insize=1576 outsize=991 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=867 outsize=316 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=867 outsize=29 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=834 outsize=316 kw= ok=1
+Cmd: preprocess
+  insize=1584 outsize=469 ok=1
+Cmd: preprocess
+  insize=3013 outsize=1088 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2160 outsize=2406 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2160 outsize=81 kw= ok=1
+Cmd: preprocess
+  insize=1408 outsize=1408 ok=1
+Cmd: preprocess
+  insize=1228 outsize=198 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1282 outsize=162 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1282 outsize=823 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (41): Unrecognized renderer for #pragma exclude_renderers: molehill
+  insize=2566 outsize=1237 ok=1
+Cmd: preprocess
+  insize=719 outsize=719 ok=1
+Cmd: preprocess
+  insize=3013 outsize=1088 ok=1
+Cmd: preprocess
+  insize=2274 outsize=1036 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1537 outsize=171 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1537 outsize=141 kw=SOFTPARTICLES_OFF ok=1
+Cmd: preprocess
+  insize=845 outsize=845 ok=1
+Cmd: preprocess
+  insize=1720 outsize=732 ok=1
+Cmd: preprocess
+  insize=1500 outsize=667 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1135 outsize=272 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1135 outsize=192 kw= ok=1
+Cmd: preprocess
+  insize=1637 outsize=709 ok=1
+Cmd: preprocess
+  insize=1553 outsize=439 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1361 outsize=440 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1361 outsize=275 kw= ok=1
+Cmd: preprocess
+  insize=1553 outsize=439 ok=1
+Cmd: preprocess
+  insize=845 outsize=845 ok=1
+Cmd: preprocess
+  insize=2490 outsize=810 ok=1
