@@ -1,0 +1,236 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1333]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1013 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Noah\Desktop\Wu Tang game\Wu Tang game\WuTang final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Wu Tang game\Wu Tang game\WuTang final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Wu Tang game\Wu Tang game\WuTang final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Wu Tang game\Wu Tang game\WuTang final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Noah\Desktop\Wu Tang game\Wu Tang game\WuTang final_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Noah\Desktop\Wu Tang game\Wu Tang game\WuTang final_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Can not play a disabled audio source
+UnityEngine.AudioSource:PlayOneShot(AudioClip, Single)
+UnityEngine.AudioSource:PlayOneShot(AudioClip) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\AudioBindings.cs:506)
+MS_Level_Choose:OnMouseOver() (at C:\Users\chase.starks\Desktop\Wu Tang game\Assets\Scripts\MS_Level_Choose.js:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\MouseEvents.cs:17)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\MouseEvents.cs:182)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\MouseEvents.cs:138)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/Audio/AudioSource.cpp line 1447] 
+(Filename: C Line: 0)
+
+UnloadTime: 0.515802 ms
+System memory in use before: 26.5 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 19.8 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 8102.
+Total: 1.657369 ms (FindLiveObjects: 0.202919 ms CreateObjectMapping: 0.043985 ms MarkObjects: 0.374169 ms  DeleteObjects: 0.524305 ms)
+
+Platform assembly: C:\Users\Noah\Desktop\Wu Tang game\Wu Tang game\WuTang final_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Noah\Desktop\Wu Tang game\Wu Tang game\WuTang final_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at coint rotate.OnTriggerStay2D (UnityEngine.Collider2D hitPlayer) [0x00032] in C:\Users\chase.starks\Desktop\Wu Tang game\Assets\coint rotate.js:20 
+ 
+(Filename: C Line: 0)
+
